@@ -1,0 +1,14 @@
+name: jack_aoc_2019
+description: AOC 2019 Jack
+version: 1.0.0
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  quiver:
+  equatable:
+  vector_math:
+
+dev_dependencies:
+  test:
