@@ -1,6 +1,5 @@
 import 'dart:io';
 
-import 'package:equatable/equatable.dart';
 import 'package:quiver/iterables.dart';
 import 'package:vector_math/vector_math.dart';
 
